@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Taha/CLionProjects/TP-Thivent/ODALID.h
+stdint-gcc.h
+-
+windows.h
+-
+stdint.h
+-
+stddef.h
+-
+tchar.h
+-
+
+C:/Users/Taha/CLionProjects/TP-Thivent/fenetre.cpp
+fenetre.h
+C:/Users/Taha/CLionProjects/TP-Thivent/fenetre.h
+ui_fenetre.h
+C:/Users/Taha/CLionProjects/TP-Thivent/ui_fenetre.h
+ODALID.h
+C:/Users/Taha/CLionProjects/TP-Thivent/ODALID.h
+QtGui
+-
+
+C:/Users/Taha/CLionProjects/TP-Thivent/fenetre.h
+QWidget
+-
+
+C:/Users/Taha/CLionProjects/TP-Thivent/main.cpp
+fenetre.h
+C:/Users/Taha/CLionProjects/TP-Thivent/fenetre.h
+QApplication
+-
+
